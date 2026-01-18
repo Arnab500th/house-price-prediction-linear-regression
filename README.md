@@ -23,8 +23,8 @@ This project implements an end-to-end Linear Regression model to predict house p
 ## Results
 - Actual vs Predicted Price visualization<img width="3000" height="1800" alt="actual_vs_predicted" src="https://github.com/user-attachments/assets/91b0300e-b330-48b5-9453-69b9b3e8dcbd" />
 
-- Feature importance based on regression coefficie<img width="5100" height="1800" alt="feature_importance" src="https://github.com/user-attachments/assets/fe2eed25-b9fd-42f6-9f65-ea4c063edeed" />
-nts
+- Feature importance based on regression coefficients<img width="5100" height="1800" alt="feature_importance" src="https://github.com/user-attachments/assets/fe2eed25-b9fd-42f6-9f65-ea4c063edeed" />
+
 
 ## Author
 Arnab Datta
